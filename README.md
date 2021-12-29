@@ -1,1 +1,1 @@
-# rsschool-cv
+https://malofiy.github.io/rsschool-cv/cv
