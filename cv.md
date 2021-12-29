@@ -50,6 +50,7 @@ const func = (num) => {
 | Russian | profecient |
 | English | profecient |
 | German | profecient |
+| Polish | beginner |
 
 
 
